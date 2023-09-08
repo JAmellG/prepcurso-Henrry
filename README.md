@@ -1,2 +1,1 @@
-# prepcurso-Henrry
-este es mi repositorio de prueba del modulo dos de lo que e Aprendido 
+prueba de como crear un repositorio de git hub
